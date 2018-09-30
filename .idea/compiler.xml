@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="spring.cloud_main" target="1.8" />
       <module name="spring.cloud_test" target="1.8" />
+      <module name="spring_cloud_functions_main" target="1.8" />
+      <module name="spring_cloud_functions_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
