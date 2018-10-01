@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Start-Class: com.prashanth.spring.cloud.functions.SpringCloudFunction0
+ 1
+Main-Class: org.springframework.boot.loader.JarLauncher
+
